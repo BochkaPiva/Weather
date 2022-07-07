@@ -60,7 +60,6 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
         });
 
         thread.start();
-
     }
 
     @Override
