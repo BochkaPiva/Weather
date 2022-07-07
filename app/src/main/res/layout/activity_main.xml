@@ -40,5 +40,14 @@
         android:textAlignment="center"
         android:textColor="@color/white" />
 
+    <TextView
+        android:id="@+id/Data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400sp"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textColor="@color/white" />
+
 
 </RelativeLayout>
